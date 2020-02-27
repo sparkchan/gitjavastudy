@@ -11,5 +11,6 @@ public class User1Test {
         System.out.println("Merge test");
         System.out.println("Merge test2");
         System.out.println("Merge test3");
+        System.out.println("Fix bug 103");
     }
 }
