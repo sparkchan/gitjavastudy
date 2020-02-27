@@ -8,5 +8,6 @@ public class User1Test {
         System.out.println("Repair bug 101");
         System.out.println("Repair bug 102");
         System.out.println("User 2");
+        System.out.println("Merge test2");
     }
 }
