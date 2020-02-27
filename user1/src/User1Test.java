@@ -10,5 +10,6 @@ public class User1Test {
         System.out.println("User 2");
         System.out.println("Merge test");
         System.out.println("Merge test2");
+        System.out.println("Merge test3");
     }
 }
